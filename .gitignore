@@ -1,0 +1,4 @@
+data/raw_files/
+data/*.tar
+data/*.soft.gz
+.ipynb_checkpoints/
